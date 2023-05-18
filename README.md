@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivansh Kumar</h1>
 <h3 align="center">I am a Flutter and FullStack Web Developer</h3>
 
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img align="center" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4780nbkztc3zux9zg6g9sqpqgnn1jg3bfurbf2nwpq&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 - 🔭 I’m currently working on [Clima-FlutterApp](https://github.com/ShivanshKumar760/Clima-FlutterApp)
 
 - 🌱 I’m currently learning **Lua.js and React framework**
