@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShivanshKumar760](https://github.com/ShivanshKumar760)
 
-- 💬 Ask me about **Android Development And Web3**
+- 💬 Ask me about **Mobile App Development And Web3**
 
 - 📫 How to reach me **shivanshkumar760@gamil.com**
 
