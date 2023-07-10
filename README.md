@@ -1,13 +1,13 @@
 ![logo](https://github.com/ShivanshKumar760/ShivanshKumar760/blob/main/logo.png)
 <h1 align="center">Hi 👋, I'm Shivansh Kumar</h1>
-<h3 align="center">I am a Flutter and FullStack Web Developer</h3>
+<h3 align="center">I am a Mobile Application and FullStack Web Developer</h3>
 
 <img align="center" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4780nbkztc3zux9zg6g9sqpqgnn1jg3bfurbf2nwpq&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 - 🔭 I’m currently working on [Clima-FlutterApp](https://github.com/ShivanshKumar760/Clima-FlutterApp)
 
 - 🌱 I’m currently learning **Lua.js and React framework**
 
-- 🔭 I’m currently a **Third Year CSE Student from SRM-ISt**
+- 🔭 I’m currently a **Third Year CSE Student from SRM-IST**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShivanshKumar760](https://github.com/ShivanshKumar760)
 
