@@ -5,13 +5,13 @@
 <img align="center" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4780nbkztc3zux9zg6g9sqpqgnn1jg3bfurbf2nwpq&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 - 🔭 I’m currently working on [Clima-FlutterApp](https://github.com/ShivanshKumar760/Clima-FlutterApp)
 
-- 🌱 I’m currently learning **Lua.js and React framework**
+- 🌱 I’m currently learning **Go lang and Next.js 15**
 
 - 🔭 I’m currently a **Third Year CSE Student from SRM-IST**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShivanshKumar760](https://github.com/ShivanshKumar760)
 
-- 💬 Ask me about **Mobile App Development And Web3**
+- 💬 Ask me about **Web App Development and Web3**
 
 - 📫 How to reach me **shivanshkumar760@gamil.com**
 
