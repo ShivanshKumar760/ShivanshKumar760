@@ -6,8 +6,6 @@ I am a Full-Stack Developer✨. Currently, I am a graduate from SRM IST with bac
 ### 🧑‍💻 My Skills:
 ![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,prisma,pug,postgresql,mongodb,redis,javascript,nodejs,express,ts,docker,go,linux&perline=5)
 
-<img align="center" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4780nbkztc3zux9zg6g9sqpqgnn1jg3bfurbf2nwpq&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshkumar760&show_icons=true&locale=en&layout=compact" alt="shivanshkumar760" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanshkumar760&show_icons=true&locale=en" alt="shivanshkumar760" /></p>
