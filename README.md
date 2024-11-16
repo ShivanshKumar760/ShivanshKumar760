@@ -4,7 +4,7 @@
 I am a Full-Stack Developer✨. Currently, I am a graduate from SRM IST with bachelor's degree in Computer Science Engineering  🧑‍💻. I have skills in Web Development and have been building websites for the past 2 years using Express.js, EJS ,MongoDB and React and lately I am learning Nextjs and postgres. These days, my main focus is to learn more about Nextjs and postgres 🐷. I am always ready for new experiences 🐥, to meet new people 🐸, and to learn new things 🤩.
 
 ### 🧑‍💻 My Skills:
-![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,prisma,pug,postgresql,mongodb,redis,javascript,nodejs,express,go,linux&perline=5)
+![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,prisma,pug,postgresql,mongodb,redis,javascript,nodejs,express,ts,docker,go,linux&perline=5)
 
 <img align="center" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4780nbkztc3zux9zg6g9sqpqgnn1jg3bfurbf2nwpq&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
