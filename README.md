@@ -24,7 +24,7 @@ const sahil = {
       misc: ["Git", "GitHub"]
   },
   architecture: ["MVC", "Single Page Applications"],
-  devProfile: "[https://github.com/ShivanshKumar760/]"
+  devProfile: "(https://github.com/ShivanshKumar760/)"
 };
 ```
 
