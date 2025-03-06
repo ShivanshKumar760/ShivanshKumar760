@@ -6,6 +6,29 @@ I am a Full-Stack Developer✨. Currently, I am a graduate from SRM IST with bac
 ### 🧑‍💻 My Skills:
 ![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,prisma,pug,postgresql,mongodb,redis,javascript,nodejs,express,ts,docker,go,linux&perline=5)
 
+## 🧰 Skills 
+
+```javascript
+const sahil = {
+  pronouns: "He" | "Him",
+  code: ["HTML, "CSS", "SCSS", "BootStrap", "Tailwind", "JavaScript","Typescript","React","Express","MongoDB","Postgres","JEST","ViTest","Nextjs","Fastify","Go","Python","Flask","django","prisma","Java"],
+  askMeAbout: ["Web Development", "Tech", "Problem Solving"],
+  technologies: {
+      frontEnd: {
+          js: ["React"]
+      },
+      backEnd: {
+          js: ["Node.js", "Express.js"]
+      },
+      databases: ["MongoDB", "MySQL"],
+      misc: ["Git", "GitHub"]
+  },
+  architecture: ["MVC", "Single Page Applications"],
+  devProfile: "[https://github.com/ShivanshKumar760/]"
+};
+```
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshkumar760&show_icons=true&locale=en&layout=compact" alt="shivanshkumar760" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanshkumar760&show_icons=true&locale=en" alt="shivanshkumar760" /></p>
