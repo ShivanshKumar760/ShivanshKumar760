@@ -9,9 +9,10 @@ I am a Full-Stack Developer✨. Currently, I am a graduate from SRM IST with bac
 ## 🧰 Skills 
 
 ```javascript
-const sahil = {
+const Shivansh= {
   pronouns: "He" | "Him",
-  code: ["HTML, "CSS", "SCSS", "BootStrap", "Tailwind", "JavaScript","Typescript","React","Express","MongoDB","Postgres","JEST","ViTest","Nextjs","Fastify","Go","Python","Flask","django","prisma","Java"],
+  code: ["HTML, "CSS", "SCSS", "BootStrap", "Tailwind", "JavaScript","Typescript","React",
+"Express","MongoDB","Postgres","JEST","ViTest","Nextjs","Fastify","Go","Python","Flask","django","prisma","Java"],
   askMeAbout: ["Web Development", "Tech", "Problem Solving"],
   technologies: {
       frontEnd: {
