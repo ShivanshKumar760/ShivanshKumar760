@@ -6,17 +6,20 @@ I'm a Full Stack Developer passionate about building scalable applications and e
 
 **Frontend & Full Stack**
 - React.js, Next.js, Node.js, Express.js
-- MongoDB | MERN Stack
+- MongoDB | MERN Stack | PERN Stack
 
 **Backend & APIs**
 - Spring Boot (Java)
 - Flask, Django, FastAPI (Python)
+- Express.js(Nodejs)
 - gRPC | RESTful APIs
 
 **DevOps & Cloud**
 - Docker, Kubernetes
 - Vagrant
 - AWS, Azure
+- Cloudflare
+- Supabase
 - CI/CD Pipelines
 
 ## 💡 What I Do
