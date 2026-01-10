@@ -60,5 +60,8 @@ I specialize in building end-to-end solutions that combine modern frontend frame
 <a href="https://www.leetcode.com/shivansh749653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivansh749653" height="30" width="40" /></a>
 
 
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivanshKumar760&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
