@@ -60,7 +60,7 @@ I specialize in building end-to-end solutions that combine modern frontend frame
 
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivanshKumar760&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
-
+<img alt="Shivansh's Github Top Languages" src="https://github-readme-stats-aron-gus-projects.vercel.app//api/top-langs?username=ShivanshKumar760&hide=vhdl,verilog,systemverilog,jupyter%20notebook,html,css,v,tcl,makefile&theme=maroongold"/>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
