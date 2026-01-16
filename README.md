@@ -52,15 +52,27 @@ I specialize in building end-to-end solutions that combine modern frontend frame
 
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://codepen.io/shivansh760" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shivansh760" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shivansh-kumar-6725a7249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivansh-kumar-6725a7249/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shivanshkumar760" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shivanshkumar760" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shivansh749653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivansh749653" height="30" width="40" /></a>
+<br/>
+<br/>
 
 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivanshKumar760&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivanshKumar760&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
+<table border="0">
+<tr>
+<td valign="top">
 <img alt="Shivansh's Github Top Languages" src="https://github-readme-stats-aron-gus-projects.vercel.app//api/top-langs?username=ShivanshKumar760&hide=vhdl,verilog,systemverilog,jupyter%20notebook,html,css,v,tcl,makefile&theme=maroongold"/>
+</td>
+<td valign="top">
+<img alt="Shivansh's Github Stats" src="https://github-readme-stats-aron-gus-projects.vercel.app//api?username=ShivanshKumar760&show_icons=true&hide_border=true&theme=maroongold&hide_rank=true"/>
+</td>
+</tr>
+</table>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
