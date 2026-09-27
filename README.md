@@ -2,6 +2,8 @@
 
 I'm a Full Stack Developer passionate about building scalable applications and exploring cutting-edge technologies. I love working across the entire stack, from crafting intuitive user interfaces to designing robust backend systems and deploying them to the cloud.
 
+Basically , I do full-stack, ops and distributed systems.
+
 ## 🚀 Tech Stack
 
 **Frontend & Full Stack**
