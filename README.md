@@ -33,12 +33,7 @@ I specialize in building end-to-end solutions that combine modern frontend frame
 ### 🎨 Frontend & Full Stack
 ![Frontend Skill](https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs&perline=8)
 ### ⚙️ Backend Frameworks
-
-<p>
-  <img src="https://iconic-api.onrender.com/dark/flask" width="64px" alt="flask" title="flask" />
-  <img src="https://iconic-api.onrender.com/dark/fastapi" width="64px" alt="fastapi" title="fastapi" />
-  <img src="https://iconic-api.onrender.com/dark/django" width="64px" alt="django" title="django" />
-</p>
+![Backend Skill](https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgres,cloudflare,js,ts,py,java,rust,go,django,flask,fastapi,java,spring,hibernatem&perline=8)
 
 ### 🐳 Containers & Orchestration
 
