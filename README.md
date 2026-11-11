@@ -31,14 +31,7 @@ I specialize in building end-to-end solutions that combine modern frontend frame
 ![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,firebase,mongodb,postgres,cloudflare,docker,linux,js,ts,py,java,rust,docker,kubernetes,gcp,azure,aws,go,django,flask,fastapi,git,github,githubactions,java,spring,hibernate,terraform&perline=8)
 
 ### 🎨 Frontend & Full Stack
-
-<p>
-  <img src="https://iconic-api.onrender.com/dark/react" width="64px" alt="react" title="react" />
-  <img src="https://iconic-api.onrender.com/dark/nextjs" width="64px" alt="nextjs" title="nextjs" />
-  <img src="https://iconic-api.onrender.com/dark/nodejs" width="64px" alt="nodejs" title="nodejs" />
-  <img src="https://iconic-api.onrender.com/dark/express" width="64px" alt="express" title="express" />
-</p>
-
+![Frontend Skill](https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs&perline=8)
 ### ⚙️ Backend Frameworks
 
 <p>
