@@ -42,19 +42,10 @@ I specialize in building end-to-end solutions that combine modern frontend frame
 ![Cloud Platforms](https://skillicons.dev/icons?i=cloudflare,gcp,azure,aws,vercel&perline=8)
 
 ### 🏗️ Infrastructure as Code
-
-<p>
-  <img src="https://iconic-api.onrender.com/dark/terraform" width="64px" alt="terraform" title="terraform" />
-</p>
+![IaC](https://skillicons.dev/icons?i=terraform&perline=8)
 
 ### 🔄 Version Control, CI/CD & Tools
-
-<p>
-  <img src="https://iconic-api.onrender.com/dark/git" width="64px" alt="git" title="git" />
-  <img src="https://iconic-api.onrender.com/dark/github-actions" width="64px" alt="github-actions" title="github-actions" />
-  <img src="https://iconic-api.onrender.com/dark/vscode" width="64px" alt="vscode" title="vscode" />
-</p>
-
+![Version Control](https://skillicons.dev/icons?i=git,github,githubactions&perline=8)
 ### 🧩 More in the Stack
 
 <p>
