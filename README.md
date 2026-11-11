@@ -158,18 +158,7 @@ I specialize in building end-to-end solutions that combine modern frontend frame
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivanshKumar760&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshKumar760&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ShivanshKumar760&theme=dark&hide_border=false" alt="Streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivanshKumar760&radius=16&theme=nightowl&area=true&order=5&hide_title=false" alt="Activity graph" />
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivanshKumar760&theme=github_dark"/>
 
 ---
 
