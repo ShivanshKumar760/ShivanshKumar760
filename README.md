@@ -28,6 +28,7 @@ I specialize in building end-to-end solutions that combine modern frontend frame
 ---
 
 ## 🚀 Major Tech Stack
+![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,firebase,mongodb,postgres,cloudflare,docker,linux,js,ts,py,java,rust&perline=8)
 
 ### 🎨 Frontend & Full Stack
 
