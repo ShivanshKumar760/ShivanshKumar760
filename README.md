@@ -36,19 +36,10 @@ I specialize in building end-to-end solutions that combine modern frontend frame
 ![Backend Skill](https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgres,cloudflare,js,ts,py,java,rust,go,django,flask,fastapi,java,spring,hibernatem&perline=8)
 
 ### 🐳 Containers & Orchestration
-
-<p>
-  <img src="https://iconic-api.onrender.com/dark/docker" width="64px" alt="docker" title="docker" />
-  <img src="https://iconic-api.onrender.com/dark/kubernetes" width="64px" alt="kubernetes" title="kubernetes" />
-</p>
+![Container and Orchestration](https://skillicons.dev/icons?i=docker,linux,kubernetes&perline=8)
 
 ### ☁️ Cloud Platforms
-
-<p>
-  <img src="https://iconic-api.onrender.com/dark/digitalocean" width="64px" alt="digitalocean" title="digitalocean" />
-  <img src="https://iconic-api.onrender.com/dark/aws" width="64px" alt="aws" title="aws" />
-  <img src="https://iconic-api.onrender.com/dark/gcp" width="64px" alt="gcp" title="gcp" />
-</p>
+![Cloud Platforms](https://skillicons.dev/icons?i=cloudflare,gcp,azure,aws,vercel&perline=8)
 
 ### 🏗️ Infrastructure as Code
 
